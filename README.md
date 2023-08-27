@@ -1,6 +1,6 @@
 # A Parallel Gannet Optimization Algorithm with Communication Strategies (PGOA)
 
-[![Paper](https://img.shields.io/badge/Paper-10.1007-blue)](https://link.springer.com/chapter/10.1007/978-981-99-0105-0_7)
+[![Paper](https://img.shields.io/badge/Paper-10.1007-blue)](https://www.researchgate.net/publication/370983446_A_Parallel_Gannet_Optimization_Algorithm_with_Communication_Strategies_PGOA)
 [![Code](https://img.shields.io/badge/Code-GitHub-green)](https://github.com/sujingbo0217/PGOA)
 
 **Author:** Jingbo Su  
